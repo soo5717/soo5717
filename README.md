@@ -22,9 +22,9 @@
 ### ⚡ Projects
 - `🥇 Cheers!` - Android Developer (2019.05~2019.06) 
 - `🥈 Harmony` - Android Developer (2019.11) 
-- `Mylen` - [Android](https://github.com/soo5717/Mylen-Android), [Server](https://github.com/soo5717/Mylen-Server) Developer (2020.03~2020.06)
-- `Travellet` - [Android](https://github.com/soo5717/2021-Travellet-Android), [Server](https://github.com/soo5717/2021-Travellet-Server) Developer (2020.11~2021.01)
-- `Timmo` - [Server](https://github.com/soo5717/2021-songjas-backend) Developer (2021.01)
+- `Mylen` - [Android](https://github.com/soo5717/Mylen-Android), [Node.js](https://github.com/soo5717/Mylen-Server) Developer (2020.03~2020.06)
+- `Travellet` - [Android](https://github.com/soo5717/2021-Travellet-Android), [Node.js](https://github.com/soo5717/2021-Travellet-Server) Developer (2020.11~2021.01)
+- `Timmo` - [Node.js](https://github.com/soo5717/2021-songjas-backend) Developer (2021.01)
 
 
 ### 🌩 Activities  
