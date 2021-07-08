@@ -28,13 +28,13 @@
 
 
 ### 🌩 Activities  
-- `SISS` - Sookmyung information security club (2017.03-2017.12)
-- `FORZA` - Sookmyung C mentoring club (2017.03-2018.12)
-- [`KUSITMS`](https://www.instagram.com/kusitms_official/?hl=ko) - Korean university student IT management society (2019.03-2019.06)
+- `SISS` - Sookmyung information security club (2017.03~2017.12)
+- `FORZA` - Sookmyung C mentoring club (2017.03~2018.12)
+- [`KUSITMS`](https://www.instagram.com/kusitms_official/?hl=ko) - Korean university student IT management society (2019.03~2019.06)
 - [`Sookmyung WIC hackathon`](https://www.futurekorea.co.kr/news/articleView.html?idxno=123966) - Sookmyung WIC hackathon powered by AWS (2019.11) 
 - [`Gokathon`](https://www.facebook.com/pg/koreahacks/posts/) - Hackathon at Korea University (2021.01)
-- [`Hanium`](https://www.hanium.or.kr/portal/index.do) - ICT mentoring (2021.03-)
-- [`Tour API Competition`](https://www.2021tourapi.com/index.php) - Tour API + Kakao Open API Competition (2021.05-)
+- [`Hanium`](https://www.hanium.or.kr/portal/index.do) - ICT mentoring (2021.03~ing)
+- [`Tour API Competition`](https://www.2021tourapi.com/index.php) - Tour API + Kakao Open API Competition (2021.05~ing)
 
 
 ### Stats and Most Used Langauges
