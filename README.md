@@ -27,7 +27,7 @@
 - `🥇 Cheers!` - Android Developer (2019.05~2019.06) 
 
 
-### 🌩 Experience 
+### 🌩 Activities  
 - [`Tour API Competition`](https://www.2021tourapi.com/index.php) - Tour API + Kakao Open API Competition (2021.05~ing)
 - [`Hanium`](https://www.hanium.or.kr/portal/index.do) - ICT mentoring (2021.03~ing)
 - [`Gokathon`](https://www.facebook.com/pg/koreahacks/posts/) - Hackathon at Korea University (2021.01)
