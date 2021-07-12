@@ -6,14 +6,14 @@
   <img src="https://img.shields.io/badge/Kotlin-FF8900?style=flat-square&logo=Kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-1991FF?style=flat-square&logo=Python&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Android Studio-3BD480?style=flat-square&logo=Android-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-43B6EF?style=flat-square&logo=Mysql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Node.js-5CCF49?style=flat-square&logo=Node.js&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3BD480?style=flat-square&logo=Android-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
   
-- 🌱 I’m currently learning `Node.js`, `Spring`, `AWS`, `Android`
+- 🌱 I’m currently learning `Android`, `Node.js`, `AWS`, `Spring` 
 - 📚 I’m majoring in `Software Convergence` at Sookmyung Women's University.
 - 📫 How to reach me: soo5717@sookmyung.ac.kr
 - 📝 My blog: https://velog.io/@soo5717
