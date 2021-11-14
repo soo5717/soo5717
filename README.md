@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Java-008FBC?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-FF8900?style=flat-square&logo=Kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-1991FF?style=flat-square&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Android Studio-3BD480?style=flat-square&logo=Android-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
