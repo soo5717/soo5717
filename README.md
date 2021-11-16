@@ -23,8 +23,8 @@
 - `OurHome` - [Spring Boot](https://github.com/soo5717/BEDV1_OurHome) Developer (2021.10~ing)
 - `🥉 Forplo` - [NestJS](https://github.com/soo5717/2021-Forplo-Server) Developer (2021.10~ing)
 - `Timmo` - [Node.js](https://github.com/soo5717/2021-songjas-backend) Developer (2021.01)
-- `Travellet` - [Android](https://github.com/soo5717/2021-Travellet-Android), [Node.js](https://github.com/soo5717/2021-Travellet-Server) Developer (2020.11~2021.01)
-- `Mylen` - [Android](https://github.com/soo5717/Mylen-Android), [Node.js](https://github.com/soo5717/Mylen-Server) Developer (2020.03~2020.06)
+- `Travellet` - [Node.js](https://github.com/soo5717/2021-Travellet-Server), [Android](https://github.com/soo5717/2021-Travellet-Android) Developer (2020.11~2021.01)
+- `Mylen` - [Node.js](https://github.com/soo5717/Mylen-Server), [Android](https://github.com/soo5717/Mylen-Android) Developer (2020.03~2020.06)
 - `🥈 Harmony` - Android Developer (2019.11) 
 - `🥇 Cheers!` - Android Developer (2019.05~2019.06) 
 
