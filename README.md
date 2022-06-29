@@ -20,19 +20,19 @@
 
 
 ### ⚡ Projects
-- `OurHome` - [Spring Boot](https://github.com/soo5717/BEDV1_OurHome) Developer (2021.10~ing)
-- `🥉 Forplo` - [NestJS](https://github.com/soo5717/2021-Forplo-Server) Developer (2021.10~ing)
+- `Jungdam` - [Spring Boot](https://github.com/jung-dam-diary/team-angelbaby-jungdam-be) Developer (2021.10~2021.12)
+- `🥉Forplo` - [NestJS](https://github.com/team-forplo/forplo-server) Developer (2021.10~2021.12)
 - `Timmo` - [Node.js](https://github.com/soo5717/2021-songjas-backend) Developer (2021.01)
 - `Travellet` - [Node.js](https://github.com/soo5717/2021-Travellet-Server), [Android](https://github.com/soo5717/2021-Travellet-Android) Developer (2020.11~2021.01)
-- `Mylen` - [Node.js](https://github.com/soo5717/Mylen-Server), [Android](https://github.com/soo5717/Mylen-Android) Developer (2020.03~2020.06)
-- `🥈 Harmony` - Android Developer (2019.11) 
-- `🥇 Cheers!` - Android Developer (2019.05~2019.06) 
+- `Mylen` - Node.js, Android Developer (2020.03~2020.06)
+- `🥈Harmony` - Android Developer (2019.11) 
+- `🥇Cheers!` - Android Developer (2019.05~2019.06) 
 
 
 ### 🌩 Activities  
-- [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering course (2021.08~ing)
-- [`UPF 2021FW`](https://www.unit.center/upf) - United Project Festa (2021.09~ing)
-- [`Hanium`](https://www.hanium.or.kr/portal/index.do) - ICT mentoring (2021.03~ing)
+- [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering course (2021.08~2021.12)
+- [`UPF 2021FW`](https://www.unit.center/upf) - United Project Festa (2021.09~2021.12)
+- [`Hanium`](https://www.hanium.or.kr/portal/index.do) - ICT mentoring (2021.03~2021.11)
 - [`Tour API Competition`](https://www.2021tourapi.com/index.php) - Tour API + Kakao Open API Competition (2021.05~2021.11)
 - [`KoreaHacks`](https://www.facebook.com/pg/koreahacks/posts/) - Hackathon at Korea University (2021.01)
 - [`Sookmyung WIC hackathon`](https://www.futurekorea.co.kr/news/articleView.html?idxno=123966) - Sookmyung WIC hackathon powered by AWS (2019.11) 
