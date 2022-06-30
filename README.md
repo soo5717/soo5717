@@ -16,6 +16,7 @@
 - 🌱 I’m currently learning `Spring Boot`, `Node.js`, `NestJS`, `AWS`
 - 📚 I’m majoring in `Software Convergence` at Sookmyung Women's University.
 - 📫 How to reach me: soo5717@sookmyung.ac.kr
+- 💌 My resum: https://programmers.co.kr/pr/soo5717
 - 📝 My blog: https://velog.io/@soo5717
 
 
