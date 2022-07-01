@@ -19,7 +19,7 @@
 - 📝 My blog: https://velog.io/@soo5717
 
 ### 💌 Resume
-- My resume: https://programmers.co.kr/pr/soo5717
+- `My resume` - https://programmers.co.kr/pr/soo5717
 
 
 ### ⚡ Projects
@@ -34,10 +34,10 @@
 
 ### 🌩 Activities  
 - [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering course (2021.08~2021.12)
-- [`UPF 2021FW`](https://www.unit.center/upf) - United Project Festa (2021.09~2021.12)
-- [`Hanium`](https://www.hanium.or.kr/portal/index.do) - ICT mentoring (2021.03~2021.11)
-- [`Tour API Competition`](https://www.2021tourapi.com/index.php) - Tour API + Kakao Open API Competition (2021.05~2021.11)
-- [`KoreaHacks`](https://www.facebook.com/pg/koreahacks/posts/) - Hackathon at Korea University (2021.01)
+- [`UPF 2021FW`](https://www.unit.center/upf/2021fw) - United Project Festa (2021.09~2021.12)
+- [`Hanium`](https://www.hanium.or.kr/portal/hanium/businessOverview.do) - ICT mentoring (2021.03~2021.11)
+- [`Tour API Competition`](http://www.2021tourapi.com) - Tour API + Kakao Open API Competition (2021.05~2021.11)
+- [`Gokathon`](https://www.facebook.com/pg/koreahacks/posts/) - Hackathon at Korea University (2021.01)
 - [`Sookmyung WIC hackathon`](https://www.futurekorea.co.kr/news/articleView.html?idxno=123966) - Sookmyung WIC hackathon powered by AWS (2019.11) 
 - [`KUSITMS`](https://www.instagram.com/kusitms_official/?hl=ko) - Korean university student IT management society (2019.03~2019.06)
 
