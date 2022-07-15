@@ -17,7 +17,7 @@
 - 📚 I’m majoring in `Software Convergence` at Sookmyung Women's University.
 
 ### 💌 Resume
-- `My resume` - https://programmers.co.kr/pr/soo5717
+- `My resume` - [Notion resume](https://soo5717.notion.site/RESUME-d57987b3084e43d5baad2758396bf4f0)
 
 
 ### ⚡ Projects
